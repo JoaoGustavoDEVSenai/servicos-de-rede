@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color:black;
+}
+h2{
+    background-color:darkgray;
+    width: 15%;
+    text-align: center;
+    border-radius: 20px;
+}
+body{
+    background-color:gray;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-size:large;
+}
+img{
+    width: 80%;
+    height: auto;   
+    justify-content: center;
+}
